@@ -45,8 +45,8 @@ function getMemory(sessionId) {
       config: {
         region: 'us-east-1',
         credentials: {
-          accessKeyId: 'AKIA5E6WDSUBLRSNZVGI',
-          secretAccessKey: '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',
+          accessKeyId: '',
+          secretAccessKey: '',
         },
       },
     }),
